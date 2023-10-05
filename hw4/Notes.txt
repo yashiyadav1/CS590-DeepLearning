@@ -1,0 +1,1 @@
+I tried changing the values in "true_y = np.array([[0.2697859, 0.45750418, 0.66536945]], dtype='float32')" many times but it did not work as everytime there was a different expected value.
